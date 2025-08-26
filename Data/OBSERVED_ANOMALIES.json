@@ -1,0 +1,30 @@
+{
+  "Galileo_I": {
+    "dv_obs_mm_s": 3.92,
+    "dv_err_mm_s": 0.08
+  },
+  "NEAR": {
+    "dv_obs_mm_s": 13.46,
+    "dv_err_mm_s": 0.13
+  },
+  "Cassini": {
+    "dv_obs_mm_s": -2.00,
+    "dv_err_mm_s": 1.00
+  },
+  "Rosetta": {
+    "dv_obs_mm_s": 1.80,
+    "dv_err_mm_s": 0.30
+  },
+  "MESSENGER": {
+    "dv_obs_mm_s": 0.00,
+    "dv_err_mm_s": 0.10
+  },
+  "Juno": {
+    "dv_obs_mm_s": 4.00,
+    "dv_err_mm_s": 2.00
+  },
+  "OSIRIS_REx": {
+    "dv_obs_mm_s": 0.00,
+    "dv_err_mm_s": 1.00
+  }
+}
