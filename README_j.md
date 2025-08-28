@@ -108,6 +108,6 @@ OSIRIS_REx         0.00         1.00          0.02          -0.02           -0.0
 
 本研究を、引用される場合は、以下の、論文を、参照してください。
 
-S. Nakamoto, "Geometric Dynamics: A Universal Law of Spacetime and Its First Measurement via the Flyby Anomaly," (Zenodoにて、プレプリントを、公開予定, DOI: [出版時に、割り当て予定]).
+S. Nakamoto, "Geometric Dynamics: A Universal Law of Spacetime and Its First Measurement via the Flyby Anomaly," (Zenodoにて、プレプリントを、公開予定, DOI: [10.5281/zenodo.16986926]).
 
 ```

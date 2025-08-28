@@ -107,6 +107,5 @@ Simultaneously, an image file named `verification_plot.png` will be generated in
 
 If you use this work, please cite the following paper:
 
-S. Nakamoto, "Geometric Dynamics: A Universal Law of Spacetime and Its First Measurement via the Flyby Anomaly," (Preprint available at Zenodo, DOI: [To be assigned upon publication]).
-
+S. Nakamoto, "Geometric Dynamics: A Universal Law of Spacetime and Its First Measurement via the Flyby Anomaly," (Preprint available at Zenodo, DOI: [10.5281/zenodo.16986926]).
 ```
